@@ -2,6 +2,10 @@
 
 https://www.hackingwithswift.com/100/swiftui/25
 
+## Image Resources
+
+[Designed by Pch.vector - Freepik.com](https://www.freepik.com)
+
 ## Challenge
 
 From [Hacking with Swift](https://www.hackingwithswift.com/guide/ios-swiftui/2/3/challenge):
