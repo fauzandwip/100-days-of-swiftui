@@ -25,11 +25,17 @@ From [Hacking with Swift](https://www.hackingwithswift.com/guide/ios-swiftui/5/3
 >
 > How far you implement this is down to you, but at the very least you should:
 >
->- Fetch the data and parse it into User and Friend structs.
->- Display a list of users with a little information about them, such as their name and whether they are active right now.
->- Create a detail view shown when a user is tapped, presenting more information about them, including the names of their friends.
+> - Fetch the data and parse it into User and Friend structs.
+> - Display a list of users with a little information about them, such as their name and whether they are active right now.
+> - Create a detail view shown when a user is tapped, presenting more information about them, including the names of their friends.
 >
->- Before you start your download, check that your User array is empty so that you don’t keep starting the download every time the view is shown.
+> - Before you start your download, check that your User array is empty so that you don’t keep starting the download every time the view is shown.
+
+#### 2. Core Data
+
+From [Hacking with Swift](https://www.hackingwithswift.com/100/swiftui/61):
+
+> Yes, your job today is to expand your app so that it uses Core Data. Your boss just emailed you to say the app is great, but once the JSON has been fetched they really want it to work offline. This means you need to use Core Data to store the information you download, then use your Core Data entities to display the views you designed – you should only need to fetch the data once.
 
 ## Screenshots
 
