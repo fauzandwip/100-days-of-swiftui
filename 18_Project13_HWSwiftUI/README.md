@@ -30,4 +30,4 @@ From [Hacking with Swift](https://www.hackingwithswift.com/books/ios-swiftui/ins
 ![screenshot1](screenshots/dark_01.png)
 ![screenshot2](screenshots/dark_02.png)
 ![screenshot3](screenshots/dark_03.png)
-![screenshot3](screenshots/dark_04.png)
+![screenshot4](screenshots/dark_04.png)

@@ -43,10 +43,10 @@ From [Hacking with Swift](https://www.hackingwithswift.com/100/swiftui/61):
 
 ![screenshot1](screenshots/Light_01.png)
 ![screenshot2](screenshots/Light_02.png)
-![screenshot2](screenshots/Light_03.png)
+![screenshot3](screenshots/Light_03.png)
 
 ### Dark Mode
 
 ![screenshot1](screenshots/Dark_01.png)
 ![screenshot2](screenshots/Dark_02.png)
-![screenshot2](screenshots/Dark_03.png)
+![screenshot3](screenshots/Dark_03.png)
