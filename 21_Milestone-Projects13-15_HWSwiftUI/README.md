@@ -2,29 +2,29 @@
 
 https://www.hackingwithswift.com/100/swiftui/77 and https://www.hackingwithswift.com/100/swiftui/78
 
-#### Note
+### Note
 
 Both File system and Core Data implementations are provided. See Implementation.swift in "Model" to switch from one to the other.
 
-#### Topics
+### Topics
 
 This milestone project is in 2 parts:
 
 - Part1 allows adding a contact from a picture in the photo library, displaying a list of contacts, and displaying details of a contact
 - Part2 adds retrieving and storing location when the contact is added, displaying location on a map
 
-#### Credits
+### Credits
 
-Photo by [Michael Dam](https://unsplash.com/@michaeldam?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/mEZ3PoFGs_k?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-Photo by [ian dooley](https://unsplash.com/@sadswim?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/d1UPkiFd04A?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-Photo by [Toa Heftiba](https://unsplash.com/@heftiba?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/O3ymvT7Wf9U?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-Photo by [Joseph Gonzalez](https://unsplash.com/es/@miracletwentyone?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Photo by [Unsplash](https://unsplash.com/photos/iFgRcqHznqg?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-Photo by [Eric Lucatero](https://unsplash.com/@erik_lucatero?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/d2MSDujJl2g?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-Photo by [Albert Dera](https://unsplash.com/@albertdera?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/ILip77SbmOE?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-Photo by [Austin Wade](https://unsplash.com/@austin_wade?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/X6Uj51n5CE8?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-Photo by [Ludovic Migneault](https://unsplash.com/@dargonesti?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/4uj3iZ5m084?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-Photo by [Irene Strong](https://unsplash.com/@leirenestrong?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/-FOUPtqP-mY?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-Photo by [Connor Wilkins](https://unsplash.com/@wilks_and_cookies?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/2crxTr4jCkc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+Photo by [Michael Dam](https://unsplash.com/@michaeldam?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/mEZ3PoFGs_k?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)<br/>
+Photo by [ian dooley](https://unsplash.com/@sadswim?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/d1UPkiFd04A?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)<br/>
+Photo by [Toa Heftiba](https://unsplash.com/@heftiba?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/O3ymvT7Wf9U?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)<br/>
+Photo by [Joseph Gonzalez](https://unsplash.com/es/@miracletwentyone?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Photo by [Unsplash](https://unsplash.com/photos/iFgRcqHznqg?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)<br/>
+Photo by [Eric Lucatero](https://unsplash.com/@erik_lucatero?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/d2MSDujJl2g?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)<br/>
+Photo by [Albert Dera](https://unsplash.com/@albertdera?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/ILip77SbmOE?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)<br/>
+Photo by [Austin Wade](https://unsplash.com/@austin_wade?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/X6Uj51n5CE8?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)<br/>
+Photo by [Ludovic Migneault](https://unsplash.com/@dargonesti?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/4uj3iZ5m084?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)<br/>
+Photo by [Irene Strong](https://unsplash.com/@leirenestrong?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/-FOUPtqP-mY?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)<br/>
+Photo by [Connor Wilkins](https://unsplash.com/@wilks_and_cookies?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/2crxTr4jCkc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)<br/>
 
 ## Challenges
 
