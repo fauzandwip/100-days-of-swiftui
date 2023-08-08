@@ -12,9 +12,9 @@ Accessibility, Voice Over
 
 From [Hacking with Swift](https://www.hackingwithswift.com/books/ios-swiftui/accessibility-wrap-up):
 
-1. [Challenge 1](Challenge1/)
-2. [Challenge 2](Challenge2/)
-3. [Challenge 3](Challenge3/)
+1. [Challenge 1](Challenge%201/)
+2. [Challenge 2](Challenge%202/)
+3. [Challenge 3](Challenge%203/)
 
 ## Screenshots
 
